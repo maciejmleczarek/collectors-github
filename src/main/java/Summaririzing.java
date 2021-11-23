@@ -3,7 +3,7 @@ import java.util.IntSummaryStatistics;
 import java.util.List;
 import java.util.stream.Collectors;
 
-public class Sammarizing {
+public class Summaririzing {
     public static void run(){
         List<Person> people = new ArrayList<>();
         people.add(new Person("Kamil", 33, 1.75));

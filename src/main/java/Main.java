@@ -3,7 +3,7 @@ public class Main {
        // ToListSetMap.run();
      //   Joining.run();
       //  CountingSummingAveraging.run();
-     //   Sammarizing.run();
-        Grupping.run();
+        Summaririzing.run();
+     //   Grupping.run();
     }
 }
